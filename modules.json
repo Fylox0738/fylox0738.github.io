@@ -1,0 +1,54 @@
+{
+    "categories": [
+        {
+            "id": "performance",
+            "name": "Performans",
+            "icon": "⚡",
+            "count": 0
+        },
+        {
+            "id": "battery",
+            "name": "Pil Optimizasyonu",
+            "icon": "🔋",
+            "count": 0
+        },
+        {
+            "id": "audio",
+            "name": "Ses Modülleri",
+            "icon": "🔊",
+            "count": 0
+        },
+        {
+            "id": "ui",
+            "name": "Arayüz",
+            "icon": "🎨",
+            "count": 0
+        },
+        {
+            "id": "system",
+            "name": "Sistem",
+            "icon": "⚙️",
+            "count": 0
+        },
+        {
+            "id": "security",
+            "name": "Güvenlik",
+            "icon": "🔒",
+            "count": 0
+        },
+        {
+            "id": "network",
+            "name": "Ağ",
+            "icon": "📡",
+            "count": 0
+        },
+        {
+            "id": "camera",
+            "name": "Kamera",
+            "icon": "📷",
+            "count": 0
+        }
+    ],
+    "modules": []
+}
+
